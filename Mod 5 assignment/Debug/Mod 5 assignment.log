@@ -1,0 +1,167 @@
+﻿  Source.cpp
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(693,12): error C2084: function 'int stbi__cpuid3(void)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(693,12): message : see previous definition of 'stbi__cpuid3'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(714,12): error C2084: function 'int stbi__sse2_available(void)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(714,12): message : see previous definition of 'stbi__sse2_available'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(716,17): error C2065: 'stbi__cpuid3': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(716,15): error C2440: 'initializing': cannot convert from 'int (__cdecl *)(void)' to 'int'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(716,15): message : There is no context in which this conversion is possible
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(771,3): error C2371: 'stbi__context': redefinition; different basic types
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(771,3): message : see declaration of 'stbi__context'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(777,13): error C2084: function 'void stbi__start_mem(stbi__context *,const stbi_uc *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(777,13): message : see previous definition of 'stbi__start_mem'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(786,13): error C2084: function 'void stbi__start_callbacks(stbi__context *,stbi_io_callbacks *,void *)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(786,13): message : see previous definition of 'stbi__start_callbacks'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(799,12): error C2084: function 'int stbi__stdio_read(void *,char *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(799,12): message : see previous definition of 'stbi__stdio_read'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(804,13): error C2084: function 'void stbi__stdio_skip(void *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(804,13): message : see previous definition of 'stbi__stdio_skip'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(809,12): error C2084: function 'int stbi__stdio_eof(void *)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(809,12): message : see previous definition of 'stbi__stdio_eof'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(814,26): error C2374: 'stbi__stdio_callbacks': redefinition; multiple initialization
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(814,26): message : see declaration of 'stbi__stdio_callbacks'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(821,13): error C2084: function 'void stbi__start_file(stbi__context *,FILE *)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(821,13): message : see previous definition of 'stbi__start_file'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(823,5): error C2065: 'stbi__start_callbacks': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(830,13): error C2084: function 'void stbi__rewind(stbi__context *)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(830,13): message : see previous definition of 'stbi__rewind'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(841,5): error C2365: 'STBI_ORDER_RGB': redefinition; previous definition was 'enumerator'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(841,5): message : see declaration of 'STBI_ORDER_RGB'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(842,5): error C2365: 'STBI_ORDER_BGR': redefinition; previous definition was 'enumerator'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(842,5): message : see declaration of 'STBI_ORDER_BGR'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(850,3): error C2371: 'stbi__result_info': redefinition; different basic types
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(850,3): message : see declaration of 'stbi__result_info'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(907,20): error C2086: 'const char *stbi__g_failure_reason': redefinition
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(907,20): message : see declaration of 'stbi__g_failure_reason'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(909,21): error C2084: function 'const char *stbi_failure_reason(void)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(909,21): message : see previous definition of 'stbi_failure_reason'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(914,12): warning C4003: not enough arguments for function-like macro invocation 'stbi__err'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(914,12): error C2084: function 'int stbi__err(const char *)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(914,12): message : see previous definition of 'stbi__err'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(920,14): error C2084: function 'void *stbi__malloc(size_t)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(920,14): message : see previous definition of 'stbi__malloc'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(937,12): error C2084: function 'int stbi__addsizes_valid(int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(937,12): message : see previous definition of 'stbi__addsizes_valid'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(949,12): error C2084: function 'int stbi__mul2sizes_valid(int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(949,12): message : see previous definition of 'stbi__mul2sizes_valid'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(958,12): error C2084: function 'int stbi__mad2sizes_valid(int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(958,12): message : see previous definition of 'stbi__mad2sizes_valid'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(960,12): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(960,43): error C2065: 'stbi__addsizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(960,73): warning C4551: function call missing argument list
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(960,33): error C2568: '&&': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(960,33): message : could be 'int stbi__mul2sizes_valid(int,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(964,12): error C2084: function 'int stbi__mad3sizes_valid(int,int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(964,12): message : see previous definition of 'stbi__mad3sizes_valid'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(966,12): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(966,43): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(966,73): warning C4551: function call missing argument list
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(966,33): error C2568: '&&': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(966,33): message : could be 'int stbi__mul2sizes_valid(int,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(967,9): error C2065: 'stbi__addsizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(971,12): error C2084: function 'int stbi__mad4sizes_valid(int,int,int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(971,12): message : see previous definition of 'stbi__mad4sizes_valid'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(973,12): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(973,43): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(973,73): warning C4551: function call missing argument list
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(973,33): error C2568: '&&': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(973,33): message : could be 'int stbi__mul2sizes_valid(int,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(974,9): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(974,44): error C2065: 'stbi__addsizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(978,14): error C2084: function 'void *stbi__malloc_mad2(int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(978,14): message : see previous definition of 'stbi__malloc_mad2'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(980,10): error C2065: 'stbi__mad2sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(980,9): warning C4551: function call missing argument list
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(981,12): error C2065: 'stbi__malloc': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(984,14): error C2084: function 'void *stbi__malloc_mad3(int,int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(984,14): message : see previous definition of 'stbi__malloc_mad3'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(986,10): error C2065: 'stbi__mad3sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(986,9): warning C4551: function call missing argument list
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(987,12): error C2065: 'stbi__malloc': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(990,14): error C2084: function 'void *stbi__malloc_mad4(int,int,int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(990,14): message : see previous definition of 'stbi__malloc_mad4'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(992,10): error C2065: 'stbi__mad4sizes_valid': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(992,9): warning C4551: function call missing argument list
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(993,12): error C2065: 'stbi__malloc': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1011,14): error C2084: function 'void stbi_image_free(void *)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1011,14): message : see previous definition of 'stbi_image_free'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1024,12): error C2374: 'stbi__vertically_flip_on_load': redefinition; multiple initialization
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1024,12): message : see declaration of 'stbi__vertically_flip_on_load'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1026,14): error C2084: function 'void stbi_set_flip_vertically_on_load(int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1026,14): message : see previous definition of 'stbi_set_flip_vertically_on_load'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1031,14): error C2084: function 'void *stbi__load_main(stbi__context *,int *,int *,int *,int,stbi__result_info *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1031,14): message : see previous definition of 'stbi__load_main'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1073,12): error C2065: 'stbi__err': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1076,17): error C2084: function 'stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1076,17): message : see previous definition of 'stbi__convert_16_to_8'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1082,26): error C2065: 'stbi__malloc': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1083,33): error C2065: 'stbi__err': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1092,22): error C2084: function 'stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1092,22): message : see previous definition of 'stbi__convert_8_to_16'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1098,32): error C2065: 'stbi__malloc': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1099,50): error C2065: 'stbi__err': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1108,23): error C2084: function 'unsigned char *stbi__load_and_postprocess_8bit(stbi__context *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1108,23): message : see previous definition of 'stbi__load_and_postprocess_8bit'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1111,20): error C2065: 'stbi__load_main': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1118,18): error C2065: 'stbi__convert_16_to_8': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1118,39): error C2568: '=': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1118,39): message : could be 'stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1145,22): error C2084: function 'stbi__uint16 *stbi__load_and_postprocess_16bit(stbi__context *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1145,22): message : see previous definition of 'stbi__load_and_postprocess_16bit'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1148,20): error C2065: 'stbi__load_main': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1155,18): error C2065: 'stbi__convert_8_to_16': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1155,39): error C2568: '=': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1155,39): message : could be 'stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1184,13): error C2084: function 'void stbi__float_postprocess(float *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1184,13): message : see previous definition of 'stbi__float_postprocess'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1208,14): error C2084: function 'FILE *stbi__fopen(const char *,const char *)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1208,14): message : see previous definition of 'stbi__fopen'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1221,18): error C2084: function 'stbi_uc *stbi_load(const char *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1221,18): message : see previous definition of 'stbi_load'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1223,15): error C2065: 'stbi__fopen': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1223,13): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1223,13): message : There is no context in which this conversion is possible
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1225,20): error C2065: 'stbi__err': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1231,18): error C2084: function 'stbi_uc *stbi_load_from_file(FILE *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1231,18): message : see previous definition of 'stbi_load_from_file'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1235,5): error C2065: 'stbi__start_file': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1236,14): error C2065: 'stbi__load_and_postprocess_8bit': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1236,45): error C2568: '=': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1236,45): message : could be 'unsigned char *stbi__load_and_postprocess_8bit(stbi__context *,int *,int *,int *,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1244,23): error C2084: function 'stbi_us *stbi_load_from_file_16(FILE *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1244,23): message : see previous definition of 'stbi_load_from_file_16'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1248,5): error C2065: 'stbi__start_file': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1249,14): error C2065: 'stbi__load_and_postprocess_16bit': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1249,46): error C2568: '=': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1249,46): message : could be 'stbi__uint16 *stbi__load_and_postprocess_16bit(stbi__context *,int *,int *,int *,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1257,18): error C2084: function 'stbi_us *stbi_load_16(const char *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1257,18): message : see previous definition of 'stbi_load_16'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1259,15): error C2065: 'stbi__fopen': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1259,13): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1259,13): message : There is no context in which this conversion is possible
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1261,31): error C2065: 'stbi__err': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1262,14): error C2065: 'stbi_load_from_file_16': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1262,36): error C2568: '=': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1262,36): message : could be 'stbi_us *stbi_load_from_file_16(FILE *,int *,int *,int *,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1270,18): error C2084: function 'stbi_uc *stbi_load_from_memory(const stbi_uc *,int,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1270,18): message : see previous definition of 'stbi_load_from_memory'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1273,5): error C2065: 'stbi__start_mem': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1274,12): error C2065: 'stbi__load_and_postprocess_8bit': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1277,18): error C2084: function 'stbi_uc *stbi_load_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1277,18): message : see previous definition of 'stbi_load_from_callbacks'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1280,5): error C2065: 'stbi__start_callbacks': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1281,12): error C2065: 'stbi__load_and_postprocess_8bit': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1285,15): error C2084: function 'float *stbi__loadf_main(stbi__context *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1285,15): message : see previous definition of 'stbi__loadf_main'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1293,13): error C2065: 'stbi__float_postprocess': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1297,12): error C2065: 'stbi__load_and_postprocess_8bit': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1297,43): error C2568: '=': unable to resolve function overload
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1297,43): message : could be 'unsigned char *stbi__load_and_postprocess_8bit(stbi__context *,int *,int *,int *,int)'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1300,12): error C2065: 'stbi__err': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1303,16): error C2084: function 'float *stbi_loadf_from_memory(const stbi_uc *,int,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1303,16): message : see previous definition of 'stbi_loadf_from_memory'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1306,5): error C2065: 'stbi__start_mem': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1307,12): error C2065: 'stbi__loadf_main': undeclared identifier
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1310,16): error C2084: function 'float *stbi_loadf_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)' already has a body
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1310,16): message : see previous definition of 'stbi_loadf_from_callbacks'
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\Mod 5 assignment\stb_image.h(1311,1): fatal  error C1003: error count exceeds 100; stopping compilation

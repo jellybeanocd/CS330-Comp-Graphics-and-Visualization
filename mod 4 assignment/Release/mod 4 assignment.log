@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(133,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(240,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(241,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(245,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(246,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(248,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(249,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Source.cpp(259,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 87 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mod 4 assignment.vcxproj -> C:\Users\Mercedes\OneDrive\Documents\Alex school\Comp graphic and vizualization\mod 4 assignment\Release\mod 4 assignment.exe
